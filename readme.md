@@ -1,10 +1,10 @@
-![node-react-boilerplate.png](https://github.com/kkamara/useful/blob/main/node-react-boilerplate.png?raw=true)
+![nodejs-crypto3.png](https://github.com/kkamara/useful/blob/main/nodejs-crypto3.png?raw=true)
 
-![node-react-boilerplate2.png](https://github.com/kkamara/useful/blob/main/node-react-boilerplate2.png?raw=true)
+![nodejs-crypto32.png](https://github.com/kkamara/useful/blob/main/nodejs-crypto32.png?raw=true)
 
-# node-react-boilerplate
+# nodejs-crypto3
 
-Nodejs, Mysql, Redis, Reactjs.
+Hash, Encrypt and Decrypt with Node.js Crypto module.
 
 ## Installation
 
