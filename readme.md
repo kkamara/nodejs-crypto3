@@ -1,7 +1,3 @@
-![nodejs-crypto3.png](https://github.com/kkamara/useful/blob/main/nodejs-crypto3.png?raw=true)
-
-![nodejs-crypto32.png](https://github.com/kkamara/useful/blob/main/nodejs-crypto32.png?raw=true)
-
 # nodejs-crypto3
 
 Hash, Encrypt and Decrypt with Node.js Crypto module.
