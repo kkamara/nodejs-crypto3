@@ -2,6 +2,10 @@
 
 Hash, Encrypt and Decrypt with Node.js Crypto module.
 
+###### Symmetric Encryption
+
+* [symmetric-encryption.js](https://github.com/kkamara/nodejs-crypto3/blob/main/src/symmetric-encryption.js).
+
 ## Installation
 
 * [Node.js](https://nodejs.org/en/)
