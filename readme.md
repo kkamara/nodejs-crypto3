@@ -2,9 +2,13 @@
 
 Hash, Encrypt and Decrypt with Node.js Crypto module.
 
-###### Salt
+###### Salt 2
 
-* [salt.js](https://github.com/kkamara/nodejs-crypto3/blob/main/src/salt.js).
+* [salt2.js](https://github.com/kkamara/nodejs-crypto3/blob/main/src/salt2.js).
+
+```bash
+  yarn node src/salt2.js
+```
 
 ## Installation
 
@@ -17,6 +21,10 @@ Hash, Encrypt and Decrypt with Node.js Crypto module.
 ```
 
 ## Usage
+
+```bash
+  yarn node src/salt2.js
+```
 
 ##### Run database migrations
 
