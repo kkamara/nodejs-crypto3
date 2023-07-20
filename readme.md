@@ -2,9 +2,9 @@
 
 Hash, Encrypt and Decrypt with Node.js Crypto module.
 
-###### Symmetric Encryption
+###### Salt
 
-* [symmetric-encryption.js](https://github.com/kkamara/nodejs-crypto3/blob/main/src/symmetric-encryption.js).
+* [salt.js](https://github.com/kkamara/nodejs-crypto3/blob/main/src/salt.js).
 
 ## Installation
 
