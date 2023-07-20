@@ -1,3 +1,4 @@
+'use strict';
 const { generateKeyPairSync } = require('crypto');
 
 const { privateKey, publicKey } = generateKeyPairSync('rsa', {

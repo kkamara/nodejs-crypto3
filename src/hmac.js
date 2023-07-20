@@ -1,3 +1,4 @@
+'use strict';
 const { createHmac } = require('crypto');
 
 const password = 'super-secret!';

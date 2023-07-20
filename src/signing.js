@@ -1,3 +1,4 @@
+'use strict';
 const { createSign, createVerify, } = require('crypto');
 const { publicKey, privateKey, } = require('./keypair');
 
