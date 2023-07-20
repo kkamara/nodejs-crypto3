@@ -10,6 +10,9 @@ const message = 'i like turtles';
 const key = randomBytes(32);
 const iv = randomBytes(16);
 
+// console.log(key.toString('hex'));
+// console.log(iv.toString('hex'));
+
 const cipher = createCipheriv('aes256', key, iv);
 
 /// Encrypt
