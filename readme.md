@@ -1,10 +1,10 @@
-# nodejs-crypto3
+# nodejs-security3
 
 Hash, Encrypt and Decrypt with Node.js Crypto module.
 
 ###### Salt 2
 
-* [salt2.js](https://github.com/kkamara/nodejs-crypto3/blob/main/src/salt2.js).
+* [salt2.js](https://github.com/kkamara/nodejs-security3/blob/main/src/salt2.js).
 
 ```bash
   yarn node src/salt2.js
