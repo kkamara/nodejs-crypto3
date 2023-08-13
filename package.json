@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-crypto3",
+  "name": "nodejs-security3",
   "version": "1.0.0",
   "description": "Hash, Encrypt and Decrypt with Node.js Crypto module.",
   "main": "src/app.js",
